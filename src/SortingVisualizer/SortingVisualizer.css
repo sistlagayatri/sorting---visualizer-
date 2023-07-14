@@ -1,0 +1,25 @@
+.array-container {
+    position: absolute;
+    left: 50px;
+    background-color: black;
+    top : 20px;
+    right : 50px
+
+    /* top: 100px; */
+  }
+  
+  .array-bar {
+    width: 10px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+
+  button
+  {
+    border-radius:8px ;
+  }
+
+  button:hover {
+    background-color:#00ad09;
+    transition: 0.7s;
+}
